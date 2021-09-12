@@ -9,3 +9,7 @@ content creator wannabe
 
 
 create my own landing page / portfolio
+
+# Ideas for buss
+    for chilli oil  
+        photoshop jar with alibata and white bg

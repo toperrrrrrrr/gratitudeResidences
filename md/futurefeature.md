@@ -10,3 +10,11 @@ forgot password is not working
 
 https://purifycss.online/
 after finishing the website i will use this tool to clean up the page
+
+
+# Sql 
+    Tenants table should have 4 status types
+        active
+        inactive
+        reserve
+        consuming
